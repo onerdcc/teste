@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="Filmes",Web Clássicos do Cinema
+https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Filmes Online
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 group-title="Filmes",Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Web TV Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 group-title="Filmes",Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Classique
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",TV Latinasat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="Filmes",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Cine Pix
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 group-title="Filmes",Moviesphere
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Lucas TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Tv Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",TV Osório News
+https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Channel 1
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",ORTV Filmes
+https://tv.ortv.com.br/hls/stream.m3u8
+#EXTINF:-1 group-title="Filmes",Grjngo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Canal 2
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",TV JSID
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Sony One
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 group-title="Filmes",Runtime Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 group-title="Filmes",Runtime Família
+https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:-1 group-title="Filmes",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1 group-title="Filmes",Cine Brasil
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Viva Web
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Rede QDM
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Sessão Trash
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Filmes",Adorando Jesus
+https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 group-title="Filmes",Crimes e Investigação
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889430
+#EXTINF:-1 group-title="Filmes",1980 Channel
+https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8

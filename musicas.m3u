@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Músicas",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 group-title="Músicas",80s
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Thatś Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Mais TV
+https://v2.cloudecast.com/maistv/index.m3u8
+#EXTINF:-1 group-title="Músicas",Kpop TV
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 group-title="Músicas",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Arena Djs
+https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Qello Converts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+#EXTINF:-1 group-title="Músicas",V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Thatś 70s
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Thatś 90s 00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Spirit television
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="Músicas",Rádio Capital TiVù
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Alpha FM
+https://dmxleo.dailymotion.com/cdn/manifest/video/x82yivf.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1k7av3udm929d30135c&rts=28692&rhv=1&cen=prod&cpi=x24vth&cpt=player&rla=en&cpr=xl0ra&eb=https%3A%2F%2Fwww.cxtv.com.br%2F&ps=816x415&td=www.cxtv.com.br&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1k7av3udm929d30135c_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=0&apo=standard&pos=1&pdm=regular&csr=1
+#EXTINF:-1 group-title="Músicas",Café Viola
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Retro Music Television
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",89 A Rádio Rock TV
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7wjrui.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1k7av7p0vabddd6a98b&rts=28692&rhv=1&cen=prod&cpi=x24vth&cpt=player&rla=en&cpr=xl0ra&eb=https%3A%2F%2Fwww.cxtv.com.br%2F&ps=816x415&td=www.cxtv.com.br&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1k7av7p0vabddd6a98b_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=0&apo=standard&pos=1&pdm=regular&csr=1
+#EXTINF:-1 group-title="Músicas",TV Rock
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Betelhost Sertanejo
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Top Mix
+https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 group-title="Músicas",Rádio Itália TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 group-title="Músicas",Blick 102 TV
+https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",TV 70-80s
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="Músicas",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 group-title="Músicas",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="Músicas",Gostei Pop
+https://video03.logicahost.com.br/redegostei/redegostei/playlist.m3u8

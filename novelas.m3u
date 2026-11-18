@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="Novelas",TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNiAyOjk6MiBQTSZoYXNoX3ZhbHVlPUtMRTdNWFFDU2w5ZkFKMWVCSGJHTkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMjQ5M2FhYS05NzM2LTQ5YWQtOTU0OS02YzE3NTg2ZmRhNzA=
+#EXTINF:-1 group-title="Novelas",V+
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNiAyOjk6MiBQTSZoYXNoX3ZhbHVlPUtMRTdNWFFDU2w5ZkFKMWVCSGJHTkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMjQ5M2FhYS05NzM2LTQ5YWQtOTU0OS02YzE3NTg2ZmRhNzA=
+#EXTINF:-1 group-title="Novelas",TVI Ficção
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNiAyOjk6MiBQTSZoYXNoX3ZhbHVlPUtMRTdNWFFDU2w5ZkFKMWVCSGJHTkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMjQ5M2FhYS05NzM2LTQ5YWQtOTU0OS02YzE3NTg2ZmRhNzA=
+#EXTINF:-1 group-title="Novelas",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Novelas",Todo Novelas [ES]
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 group-title="Novelas",Runtime Rebelde
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288
+#EXTINF:-1 group-title="Novelas",Novelas Turcas
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Novelas",Todo Novelas [ES]
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 group-title="Novelas",Canela TV [ES]
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 group-title="Novelas",Canela TV 2
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Novelas",Frequence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://corazontelenovelas.com/x/cdn/?https://storage.googleapis.com/production-homestead-v1-0-4/284/1820284/TMPhezP2/d17227488053423087d3cff984dba7c5",Corazón [ES]
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8

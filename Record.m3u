@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="record" tvg-name="Record" tvg-logo="https://mondrian.claro.com.br/channels/inverse/record-tv.png" group-title="TV Aberta",Record
+https://908485dfcfcc6d43ee34661e0249105e.s25-cloudfront-net.lat/stream/8f7f0b18172324461685f3913d004013/error.txt
+#EXTINF:-1 tvg-id="record-df" tvg-name="Record DF" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta",Record DF
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8
+#EXTINF:-1 tvg-id="record-es" tvg-name="Record ES" tvg-logo="https://1.embedcanaisdetv.com/images/record.png" group-title="TV Aberta",Record ES
+https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8
+#EXTINF:-1 tvg-id="record-go" tvg-name="Record GO" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record GO
+https://908485dfcfcc6d43ee34661e0249105e.s25-cloudfront-net.lat/stream/0a0495a912a74fca61d4695f39f0f99a/error.txt
+#EXTINF:-1 tvg-id="record-mg" tvg-name="Record MG" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record MG
+https://908485dfcfcc6d43ee34661e0249105e.s25-cloudfront-net.lat/stream/4811c5dceb7cb7bf2b5ddf68b29936f4/error.txt
+#EXTINF:-1 tvg-id="record-rj" tvg-name="Record RJ" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record RJ
+https://908485dfcfcc6d43ee34661e0249105e.s25-cloudfront-net.lat/stream/26c2beadae5fab9d38f048cf859a8858/error.txt
+#EXTINF:-1 tvg-id="record-sp" tvg-name="Record SP" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="TV Aberta",Record SP
+https://908485dfcfcc6d43ee34661e0249105e.s25-cloudfront-net.lat/stream/ffa6a440c9d2db46ef4e216e281ee12d/error.txt

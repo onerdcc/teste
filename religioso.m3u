@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-L9kwdYXrhDT7ABrAYr6VXay7nz6f_ItoCaa2aTYLYA&s=10",RIT TV
+https://stream.ecast.com.br/rit-tv/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/2015/02/23/logo-da-igreja-universal-1424689715971_v2_1x1.jpg",Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4_-vcj2GxRHuZU7xcZYWNUHnfvzNZ4UQYv4pzGgVA1oA8eocxAwcdCM&s=10",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtA_oEM0WmTVeKx_4eWroRkXANae--sh3BVkMrqeSOuuBeXETWC0570kM&s=10",Rede Super
+https://tv01.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgQB_vq2TNXBkEiQ7ilAMhekFmH3u-YrTLqPBVlbPcw&s=10",TV Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCbiZyxde5rmf0KAGtvc4wPT8bGKiIxqp_iu9sQjyXQ&s=10",Rede Mais Familia
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",Rede CNT SP
+https://dmxleo.dailymotion.com/cdn/manifest/video/x9zdz6o.m3u8?af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&mm=video%2Fmp4%2Cvideo%2Fwebm%2Caudio%2Fmp4%2Caudio%2Fmpeg%2Caudio%2Faac%2Caudio%2Fmpeg3%2Caudio%2Fmp3%2Caudio%2Fvnd.wave%2Caudio%2Fwav%2Caudio%2Fwave%2Caudio%2Fogg%2Caudio%2Fvorbis%2Cimage%2Fjpeg%2Cimage%2Fpng%2Cimage%2Fwebp%2Cimage%2Fsvg%2Bxml&cse=1k79bh7uf0f184059d1&rts=28692&rhv=1&cen=prod&cpi=x24vth&cpt=player&rla=en&cpr=xl0ra&eb=https%3A%2F%2Fwww.cxtv.com.br%2F&ps=816x415&td=www.cxtv.com.br&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=-1&ciid=1k79bh7uf0f184059d1_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&rap=0&apo=standard&pos=1&pdm=regular&csr=1
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfJS_6uAHVq2xxXYCQNW723DN54qVJW4nwlOVUitPeou9XBW7ABNcNP8&s=10",TV Capital
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-unUFJghpX7peLETcroQ6Qtpmt8FuzN0BA_ooJZRL4w&s=10",TV Feliz
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5QAkp0WVQftsYPmFZxjlEf-mphzk5Yy2MypuJ2PQUSoWVz8iGDGfQmiN&s=10",TV Templo
+https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBkZ78WC6vKrBHqpO-rFRlVaaA975NpUN6pgVpIrEEQ&s",TV Sepiol
+https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://televisao.tv/images/gospel-movie-tv.jpg",Gospel Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnoVOAg-CmJffUJNtBjLw4skGPorDQLSlYXqhqrz7Ow0NctgOJcfIZrHx&s=10",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFYW-e5WSJE8nPCkjWXv-Mbov8qyWBD4Qv_wQXaHJB8ouwNioBfc6mF1_&s=10",Rede Plenitude
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://www.mitv.com.br/logo_sem_fundo_MITV.png",Ministério Infantil
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-x20wOxm9Tni1nOMYCz4pKdZisxpPzlJz9kLXKuvFHg&s=10",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATST-yFaqmKjUX-etsImuTbP8WZLUl7-yiZyDLTuljZCFPJ2xs1-82XIw&s=10",TV Capital Canal Promessas
+https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6lpJTbkIGdPFYKghfDhHFp_-sSi-20ny7W5TlkoUuKLuDYwcVwc-0fN9L&s=10",TV Sonora
+https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrxskLKbh7IgrxacGjbOVe0Ro_re3awo4XJ87_v_2Qw&s",Rede Iniverso
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c1/Logotipo_da_TV_Ouro_Negro.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://televisao.tv/images/tv-adorando-jesus.jpg",TV Adorando Jesus
+https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",Semear TV
+https://5c483b9d1019c.streamlock.net/semeartv/semeartv/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religiosos",TV Adorador Gospel
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Web Maanain
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
+#EXTINF:-1 group-title="Religioso",TV Gideões
+https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Avivando Nações
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Reconcavo
+https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",Canal Show da Fé
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 group-title="Religioso",Despertar TV
+https://br.conectmy.com.br/DespertarTV/video.m3u8
+#EXTINF:-1 group-title="Religioso",Rede Mundial Interteve
+https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",Igreja Evangélica Cristo Vive
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV El-Shadai Salvadori
+https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Votuline
+https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",IBMC
+https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
+#EXTINF:-1 group-title="Religioso",TV Rosa de Saron Alagoinhas
+https://stmv1.painelcast.com/rogerio9186/rogerio9186/playlist.m3u8
